@@ -1,0 +1,2058 @@
+[
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 1: Gap Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 2,
+                "duration_ms": 38187,
+                "intensity": 0.46577190740445706,
+                "tab_switches": 6
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 3,
+                "duration_ms": 52527,
+                "intensity": 0.30880082919785234,
+                "tab_switches": 10
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 1,
+                "duration_ms": 45729,
+                "intensity": 0.3364985335297114,
+                "tab_switches": 10
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 2: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 2,
+                "duration_ms": 31482,
+                "intensity": 0.8185096829819775,
+                "tab_switches": 5
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 0,
+                "duration_ms": 30323,
+                "intensity": 0.8010568233714807,
+                "tab_switches": 7
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 3: Neutral Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 101,
+                "behavior_id": 5,
+                "duration_ms": 55915,
+                "intensity": 0.6269895136258267,
+                "tab_switches": 4
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 4,
+                "duration_ms": 68793,
+                "intensity": 0.641251020588276,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 5,
+                "duration_ms": 69031,
+                "intensity": 0.6726903460577205,
+                "tab_switches": 1
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 4: Neutral Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 5,
+                "duration_ms": 70065,
+                "intensity": 0.6153276645999234,
+                "tab_switches": 3
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 5: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 5,
+                "duration_ms": 67509,
+                "intensity": 0.9063745490272891,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 6: Gap Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 47401,
+                "intensity": 0.46386204697230926,
+                "tab_switches": 10
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 1,
+                "duration_ms": 42079,
+                "intensity": 0.4947646591817648,
+                "tab_switches": 7
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 2,
+                "duration_ms": 40037,
+                "intensity": 0.4715510630976605,
+                "tab_switches": 10
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 7: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 0,
+                "duration_ms": 27196,
+                "intensity": 0.8967131626463009,
+                "tab_switches": 6
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 3,
+                "duration_ms": 31976,
+                "intensity": 0.9138144944979926,
+                "tab_switches": 3
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 2,
+                "duration_ms": 28995,
+                "intensity": 0.889722363866939,
+                "tab_switches": 3
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 8: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 1,
+                "duration_ms": 68343,
+                "intensity": 0.8271177778520974,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 52088,
+                "intensity": 0.9067606726115558,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 5,
+                "duration_ms": 58803,
+                "intensity": 0.8725866033207309,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 9: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 5,
+                "duration_ms": 55104,
+                "intensity": 0.8987385189573298,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 0,
+                "duration_ms": 55115,
+                "intensity": 0.9110397134991334,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 10: Gap Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 0,
+                "duration_ms": 46660,
+                "intensity": 0.42145406017272896,
+                "tab_switches": 9
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 3,
+                "duration_ms": 42745,
+                "intensity": 0.47233254195987373,
+                "tab_switches": 10
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 1,
+                "duration_ms": 37269,
+                "intensity": 0.36854613032816574,
+                "tab_switches": 8
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 11: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 3,
+                "duration_ms": 26240,
+                "intensity": 0.9790062793506172,
+                "tab_switches": 3
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 3,
+                "duration_ms": 24331,
+                "intensity": 0.9602584371053241,
+                "tab_switches": 3
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 2,
+                "duration_ms": 30005,
+                "intensity": 0.9575129168700282,
+                "tab_switches": 3
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 12: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 5,
+                "duration_ms": 123604,
+                "intensity": 0.19985048329852725,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 13: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 2,
+                "duration_ms": 62164,
+                "intensity": 0.8736319221806181,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 2,
+                "duration_ms": 53078,
+                "intensity": 0.8421272223696056,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 14: Neutral Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 0,
+                "duration_ms": 52066,
+                "intensity": 0.5289775495201754,
+                "tab_switches": 4
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 1,
+                "duration_ms": 59223,
+                "intensity": 0.5614548352801939,
+                "tab_switches": 4
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 15: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 66697,
+                "intensity": 0.8928492177560258,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 16: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 101,
+                "behavior_id": 4,
+                "duration_ms": 137818,
+                "intensity": 0.18193590318812028,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 3,
+                "duration_ms": 123401,
+                "intensity": 0.12755048689357673,
+                "tab_switches": 1
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 17: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 2,
+                "duration_ms": 57131,
+                "intensity": 0.8913346838143618,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 3,
+                "duration_ms": 52294,
+                "intensity": 0.7531144405197764,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 2,
+                "duration_ms": 61334,
+                "intensity": 0.930004500600412,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 18: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 1,
+                "duration_ms": 34905,
+                "intensity": 0.8895878038082183,
+                "tab_switches": 7
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 27533,
+                "intensity": 0.9890392055794951,
+                "tab_switches": 7
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 1,
+                "duration_ms": 26445,
+                "intensity": 0.9471093000936663,
+                "tab_switches": 4
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 19: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 5,
+                "duration_ms": 126725,
+                "intensity": 0.20584090900837393,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 1,
+                "duration_ms": 99862,
+                "intensity": 0.16411561982010797,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 20: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 1,
+                "duration_ms": 131822,
+                "intensity": 0.14712333825872018,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 3,
+                "duration_ms": 113709,
+                "intensity": 0.16435644076056205,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 21: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 0,
+                "duration_ms": 64700,
+                "intensity": 0.783424006844819,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 3,
+                "duration_ms": 66691,
+                "intensity": 0.7874808689068888,
+                "tab_switches": 1
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 22: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 0,
+                "duration_ms": 49386,
+                "intensity": 0.836968954544028,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 4,
+                "duration_ms": 70778,
+                "intensity": 0.847170601905254,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 23: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 24369,
+                "intensity": 0.8793457391906346,
+                "tab_switches": 4
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 5,
+                "duration_ms": 32544,
+                "intensity": 0.8663227988699088,
+                "tab_switches": 3
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 1,
+                "duration_ms": 28793,
+                "intensity": 0.9119982156885184,
+                "tab_switches": 5
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 24: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 3,
+                "duration_ms": 59686,
+                "intensity": 0.849474175240706,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 2,
+                "duration_ms": 49678,
+                "intensity": 0.8884559569597275,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 5,
+                "duration_ms": 57675,
+                "intensity": 0.9467222278263234,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 25: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 5,
+                "duration_ms": 50683,
+                "intensity": 0.8366019266970408,
+                "tab_switches": 1
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 26: Gap Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 2,
+                "duration_ms": 38002,
+                "intensity": 0.4813009416477293,
+                "tab_switches": 8
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 3,
+                "duration_ms": 41592,
+                "intensity": 0.4816635078456408,
+                "tab_switches": 9
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 27: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 5,
+                "duration_ms": 58454,
+                "intensity": 0.8844421384481923,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 0,
+                "duration_ms": 59088,
+                "intensity": 0.866625655026456,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 68473,
+                "intensity": 0.8576397522329136,
+                "tab_switches": 1
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 28: Neutral Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 57939,
+                "intensity": 0.6628984630698661,
+                "tab_switches": 1
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 29: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 2,
+                "duration_ms": 55098,
+                "intensity": 0.7823583525094225,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 0,
+                "duration_ms": 69121,
+                "intensity": 0.7874055536973624,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 30: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 4,
+                "duration_ms": 64401,
+                "intensity": 0.9343304234958536,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 59172,
+                "intensity": 0.8502551077200613,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 58435,
+                "intensity": 0.7714882915100851,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 31: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 5,
+                "duration_ms": 59310,
+                "intensity": 0.8347039352276749,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 0,
+                "duration_ms": 63999,
+                "intensity": 0.8459505005209808,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 4,
+                "duration_ms": 50569,
+                "intensity": 0.9403205114895928,
+                "tab_switches": 1
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 32: Gap Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 101,
+                "behavior_id": 2,
+                "duration_ms": 51669,
+                "intensity": 0.31355797551340975,
+                "tab_switches": 9
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 33: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 49751,
+                "intensity": 0.8345260566588183,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 1,
+                "duration_ms": 60228,
+                "intensity": 0.9158306496101454,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 34: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 3,
+                "duration_ms": 56485,
+                "intensity": 0.9078150057273952,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 35: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 101,
+                "behavior_id": 2,
+                "duration_ms": 70266,
+                "intensity": 0.8089809011311735,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 2,
+                "duration_ms": 55731,
+                "intensity": 0.8685913462001232,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 36: Neutral Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 1,
+                "duration_ms": 49304,
+                "intensity": 0.5372594481779367,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 0,
+                "duration_ms": 71384,
+                "intensity": 0.6175048065094029,
+                "tab_switches": 4
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 37: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 101,
+                "behavior_id": 1,
+                "duration_ms": 101908,
+                "intensity": 0.271568751712713,
+                "tab_switches": 3
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 4,
+                "duration_ms": 118727,
+                "intensity": 0.25212846830461544,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 2,
+                "duration_ms": 114446,
+                "intensity": 0.18469849542123865,
+                "tab_switches": 3
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 38: Gap Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 0,
+                "duration_ms": 50275,
+                "intensity": 0.30209886348738924,
+                "tab_switches": 7
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 2,
+                "duration_ms": 45945,
+                "intensity": 0.35275273717911665,
+                "tab_switches": 10
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 39: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 3,
+                "duration_ms": 60264,
+                "intensity": 0.7889463112155229,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 4,
+                "duration_ms": 52065,
+                "intensity": 0.8807866704197438,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 40: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 3,
+                "duration_ms": 24696,
+                "intensity": 0.8396832242226996,
+                "tab_switches": 6
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 41: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 0,
+                "duration_ms": 63629,
+                "intensity": 0.8407863874502829,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 1,
+                "duration_ms": 54088,
+                "intensity": 0.9137591403974384,
+                "tab_switches": 1
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 42: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 0,
+                "duration_ms": 54643,
+                "intensity": 0.7960614925871281,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 4,
+                "duration_ms": 63432,
+                "intensity": 0.9148148432915135,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 43: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 101,
+                "behavior_id": 0,
+                "duration_ms": 110794,
+                "intensity": 0.22643483870478853,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 44: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 5,
+                "duration_ms": 31981,
+                "intensity": 0.9640303307809804,
+                "tab_switches": 4
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 28935,
+                "intensity": 0.8152214366159125,
+                "tab_switches": 4
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 45: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 4,
+                "duration_ms": 110262,
+                "intensity": 0.17396196806832093,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 2,
+                "duration_ms": 108318,
+                "intensity": 0.20231452412756912,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 46: Neutral Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 3,
+                "duration_ms": 70502,
+                "intensity": 0.5194161305436801,
+                "tab_switches": 3
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 3,
+                "duration_ms": 56212,
+                "intensity": 0.670905031544458,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 47: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 5,
+                "duration_ms": 138718,
+                "intensity": 0.10691253400365984,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 3,
+                "duration_ms": 127522,
+                "intensity": 0.20099176125267487,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 48: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 5,
+                "duration_ms": 65312,
+                "intensity": 0.9250181138548799,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 49: Neutral Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 4,
+                "duration_ms": 69590,
+                "intensity": 0.531034371096566,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 1,
+                "duration_ms": 66390,
+                "intensity": 0.5710971694734946,
+                "tab_switches": 4
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 50: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 1,
+                "duration_ms": 52050,
+                "intensity": 0.9468498925608899,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 5,
+                "duration_ms": 66501,
+                "intensity": 0.7710691890478912,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 0,
+                "duration_ms": 48450,
+                "intensity": 0.9108981812014703,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 51: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 5,
+                "duration_ms": 67680,
+                "intensity": 0.9450869298791957,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 5,
+                "duration_ms": 54331,
+                "intensity": 0.778078423227948,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 52: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 3,
+                "duration_ms": 60770,
+                "intensity": 0.8034287472235814,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 2,
+                "duration_ms": 66432,
+                "intensity": 0.8171735254271301,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 0,
+                "duration_ms": 55840,
+                "intensity": 0.8817413113858549,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 53: Gap Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 101,
+                "behavior_id": 0,
+                "duration_ms": 39687,
+                "intensity": 0.38667473428413623,
+                "tab_switches": 10
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 5,
+                "duration_ms": 39373,
+                "intensity": 0.37460593382312274,
+                "tab_switches": 10
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 54: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 3,
+                "duration_ms": 29968,
+                "intensity": 0.8459608386264976,
+                "tab_switches": 6
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 55: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 4,
+                "duration_ms": 69403,
+                "intensity": 0.8766089105131343,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 4,
+                "duration_ms": 69498,
+                "intensity": 0.8194426906137577,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 0,
+                "duration_ms": 54173,
+                "intensity": 0.8298299603949657,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 56: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 1,
+                "duration_ms": 35811,
+                "intensity": 0.8563946241189754,
+                "tab_switches": 3
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 57: Neutral Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 54183,
+                "intensity": 0.539869592434914,
+                "tab_switches": 3
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 58: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 0,
+                "duration_ms": 64035,
+                "intensity": 0.7979588517423246,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 3,
+                "duration_ms": 65569,
+                "intensity": 0.9164416485088641,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 3,
+                "duration_ms": 57132,
+                "intensity": 0.7959880801140787,
+                "tab_switches": 1
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 59: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 3,
+                "duration_ms": 107785,
+                "intensity": 0.10873006789667755,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 4,
+                "duration_ms": 128372,
+                "intensity": 0.23412010485550153,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 60: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 2,
+                "duration_ms": 112755,
+                "intensity": 0.10577519413789083,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 0,
+                "duration_ms": 112984,
+                "intensity": 0.2974293186285317,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 2,
+                "duration_ms": 102280,
+                "intensity": 0.17673308179896544,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 61: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 2,
+                "duration_ms": 26645,
+                "intensity": 0.8288210754287195,
+                "tab_switches": 4
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 62: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 4,
+                "duration_ms": 53181,
+                "intensity": 0.76398872411497,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 1,
+                "duration_ms": 59573,
+                "intensity": 0.9305943382050531,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 3,
+                "duration_ms": 55013,
+                "intensity": 0.9361572727628007,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 63: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 1,
+                "duration_ms": 101901,
+                "intensity": 0.2979458405086537,
+                "tab_switches": 3
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 0,
+                "duration_ms": 113764,
+                "intensity": 0.18606097031330038,
+                "tab_switches": 3
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 64: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 5,
+                "duration_ms": 142513,
+                "intensity": 0.23681076043778984,
+                "tab_switches": 3
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 2,
+                "duration_ms": 112875,
+                "intensity": 0.20744942684254156,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 65: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 3,
+                "duration_ms": 28867,
+                "intensity": 0.9114744993316823,
+                "tab_switches": 6
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 5,
+                "duration_ms": 28858,
+                "intensity": 0.8201951751950199,
+                "tab_switches": 6
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 66: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 5,
+                "duration_ms": 62823,
+                "intensity": 0.8762108646773833,
+                "tab_switches": 1
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 67: Neutral Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 1,
+                "duration_ms": 70639,
+                "intensity": 0.5995319396087089,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 2,
+                "duration_ms": 49380,
+                "intensity": 0.6967184782502238,
+                "tab_switches": 3
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 68: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 3,
+                "duration_ms": 59505,
+                "intensity": 0.8490605380686282,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 3,
+                "duration_ms": 51646,
+                "intensity": 0.8154091405838241,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 2,
+                "duration_ms": 61076,
+                "intensity": 0.8683114903563601,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 69: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 5,
+                "duration_ms": 35520,
+                "intensity": 0.8686945915992246,
+                "tab_switches": 7
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 4,
+                "duration_ms": 24519,
+                "intensity": 0.8743393824539638,
+                "tab_switches": 3
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 30570,
+                "intensity": 0.8623786871668605,
+                "tab_switches": 7
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 70: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 0,
+                "duration_ms": 138764,
+                "intensity": 0.2540453845159962,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 5,
+                "duration_ms": 112012,
+                "intensity": 0.18577049597275874,
+                "tab_switches": 3
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 71: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 3,
+                "duration_ms": 26295,
+                "intensity": 0.8411619018889498,
+                "tab_switches": 3
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 72: Neutral Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 5,
+                "duration_ms": 66489,
+                "intensity": 0.6880779621941003,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 4,
+                "duration_ms": 54173,
+                "intensity": 0.6361082803177147,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 73: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 101,
+                "behavior_id": 2,
+                "duration_ms": 121508,
+                "intensity": 0.24538128005283633,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 74: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 2,
+                "duration_ms": 71957,
+                "intensity": 0.8468820168108866,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 0,
+                "duration_ms": 63325,
+                "intensity": 0.9470109277769169,
+                "tab_switches": 1
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 75: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 1,
+                "duration_ms": 28451,
+                "intensity": 0.9151583924048787,
+                "tab_switches": 6
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 1,
+                "duration_ms": 26075,
+                "intensity": 0.8693477653764148,
+                "tab_switches": 5
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 76: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 0,
+                "duration_ms": 48908,
+                "intensity": 0.9149934246022099,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 0,
+                "duration_ms": 51666,
+                "intensity": 0.7942001546870272,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 0,
+                "duration_ms": 51934,
+                "intensity": 0.8220725989785524,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 77: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 2,
+                "duration_ms": 26397,
+                "intensity": 0.9289068794135962,
+                "tab_switches": 5
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 78: Gap Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 101,
+                "behavior_id": 4,
+                "duration_ms": 39860,
+                "intensity": 0.44878231766596843,
+                "tab_switches": 6
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 79: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 2,
+                "duration_ms": 51280,
+                "intensity": 0.8046271491985167,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 3,
+                "duration_ms": 53838,
+                "intensity": 0.752029446957111,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 5,
+                "duration_ms": 61760,
+                "intensity": 0.9239338463845689,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 80: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 0,
+                "duration_ms": 65817,
+                "intensity": 0.8521474071498645,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 1,
+                "duration_ms": 53763,
+                "intensity": 0.7551296121039096,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 81: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 4,
+                "duration_ms": 60178,
+                "intensity": 0.8365119314086377,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 100,
+                "behavior_id": 4,
+                "duration_ms": 56261,
+                "intensity": 0.8894257973119096,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 2,
+                "duration_ms": 70666,
+                "intensity": 0.7709870282609416,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 82: Neutral Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 0,
+                "duration_ms": 52568,
+                "intensity": 0.5358217576202067,
+                "tab_switches": 1
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 83: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 0,
+                "duration_ms": 33941,
+                "intensity": 0.8689500038092197,
+                "tab_switches": 3
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 4,
+                "duration_ms": 32498,
+                "intensity": 0.9055604185354293,
+                "tab_switches": 7
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 84: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 29203,
+                "intensity": 0.8171428997195508,
+                "tab_switches": 3
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 85: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 4,
+                "duration_ms": 71585,
+                "intensity": 0.8931842571404979,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 2,
+                "duration_ms": 70797,
+                "intensity": 0.9148552278156374,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 3,
+                "duration_ms": 65947,
+                "intensity": 0.7571847086327772,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 86: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 0,
+                "duration_ms": 139353,
+                "intensity": 0.23767366058149242,
+                "tab_switches": 3
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 1,
+                "duration_ms": 99580,
+                "intensity": 0.2760220859347058,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 3,
+                "duration_ms": 133572,
+                "intensity": 0.15723361864987773,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 87: Neutral Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 101,
+                "behavior_id": 4,
+                "duration_ms": 59426,
+                "intensity": 0.6213472436104666,
+                "tab_switches": 4
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 2,
+                "duration_ms": 56634,
+                "intensity": 0.6877942447435389,
+                "tab_switches": 3
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 88: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 1,
+                "duration_ms": 57582,
+                "intensity": 0.8983266145045141,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 1,
+                "duration_ms": 60357,
+                "intensity": 0.8578208669487112,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 89: Gap Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 2,
+                "duration_ms": 39890,
+                "intensity": 0.36068827242461576,
+                "tab_switches": 6
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 2,
+                "duration_ms": 42058,
+                "intensity": 0.36604196206917217,
+                "tab_switches": 8
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 1,
+                "duration_ms": 48648,
+                "intensity": 0.4814589699463415,
+                "tab_switches": 6
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 90: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 1,
+                "duration_ms": 122859,
+                "intensity": 0.22274250725043088,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 1,
+                "duration_ms": 128069,
+                "intensity": 0.20314191401296144,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 91: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 102,
+                "behavior_id": 0,
+                "duration_ms": 138674,
+                "intensity": 0.23782479916432697,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 4,
+                "duration_ms": 109682,
+                "intensity": 0.20703389137190834,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 104,
+                "behavior_id": 0,
+                "duration_ms": 121280,
+                "intensity": 0.21987280708379253,
+                "tab_switches": 1
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 92: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 4,
+                "duration_ms": 61942,
+                "intensity": 0.8306912522597326,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 93: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 4,
+                "duration_ms": 117832,
+                "intensity": 0.2362435268541761,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 0,
+                "duration_ms": 132424,
+                "intensity": 0.10425847477708916,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 94: Neutral Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 103,
+                "behavior_id": 2,
+                "duration_ms": 56062,
+                "intensity": 0.6306323763168806,
+                "tab_switches": 3
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 95: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 5,
+                "duration_ms": 60857,
+                "intensity": 0.8988740450096733,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 0,
+                "duration_ms": 49730,
+                "intensity": 0.8057067465897972,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 3,
+                "duration_ms": 50369,
+                "intensity": 0.8726673628357818,
+                "tab_switches": 2
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 96: Gap Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 101,
+                "behavior_id": 0,
+                "duration_ms": 43936,
+                "intensity": 0.4320892545195297,
+                "tab_switches": 7
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 1,
+                "duration_ms": 53887,
+                "intensity": 0.4789184011171988,
+                "tab_switches": 7
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 97: Fatigue Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 105,
+                "behavior_id": 2,
+                "duration_ms": 107080,
+                "intensity": 0.10345009509772524,
+                "tab_switches": 1
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 5,
+                "duration_ms": 116698,
+                "intensity": 0.17638010207121305,
+                "tab_switches": 3
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 98: Flow Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 100,
+                "behavior_id": 3,
+                "duration_ms": 71005,
+                "intensity": 0.80171055875539,
+                "tab_switches": 2
+            },
+            {
+                "context_id": 103,
+                "behavior_id": 4,
+                "duration_ms": 56467,
+                "intensity": 0.8405944349617899,
+                "tab_switches": 0
+            },
+            {
+                "context_id": 101,
+                "behavior_id": 4,
+                "duration_ms": 59205,
+                "intensity": 0.8466400407620842,
+                "tab_switches": 0
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 99: Neutral Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 101,
+                "behavior_id": 2,
+                "duration_ms": 53122,
+                "intensity": 0.5610744708169138,
+                "tab_switches": 4
+            },
+            {
+                "context_id": 102,
+                "behavior_id": 4,
+                "duration_ms": 59058,
+                "intensity": 0.5810030984661848,
+                "tab_switches": 3
+            },
+            {
+                "context_id": 105,
+                "behavior_id": 3,
+                "duration_ms": 67311,
+                "intensity": 0.5280321545047533,
+                "tab_switches": 1
+            }
+        ]
+    },
+    {
+        "student_id": "STU_1001",
+        "desc": "Packet 100: Struggle Simulation",
+        "telemetry_batch": [
+            {
+                "context_id": 104,
+                "behavior_id": 0,
+                "duration_ms": 32226,
+                "intensity": 0.8524197280931235,
+                "tab_switches": 7
+            }
+        ]
+    }
+]

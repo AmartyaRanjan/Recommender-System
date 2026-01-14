@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# ML Assets (Downloaded from GCS on startup)
+*.pt
+*.zip
+app/ml_assets/*.pt
+app/ml_assets/*.zip
+
+# Logs
+*.log
+
+# Docker
+.docker/
+
+# Temp
+tmp/
+diagnostics_test.py
+test_session.py
+simulate_stream.py

@@ -1,0 +1,38 @@
+{
+    "student_id": "STU_1001",
+    "session_id": "sess_2026_01_14_v1",
+    "device_info": {
+        "type": "mobile",
+        "os": "ios",
+        "connection": "5g"
+    },
+    "telemetry_batch": [
+        {
+            "context_id": 101,
+            "behavior_id": 2,
+            "timestamp": "2026-01-14T10:40:00Z",
+            "duration_ms": 45000,
+            "intensity": {
+                "scroll_velocity": 0.4,
+                "click_frequency": 0.1,
+                "avg_pressure": 0.6
+            },
+            "engagement_metrics": {
+                "tab_switches": 0,
+                "is_active_window": true,
+                "idle_time_ms": 1200
+            },
+            "performance_data": {
+                "is_correct": null,
+                "hint_requested": false,
+                "attempts_count": 0,
+                "backtracking_events": 1
+            },
+            "metadata": {
+                "content_type": "textbook_reading",
+                "difficulty_level": 3,
+                "total_words": 450
+            }
+        }
+    ]
+}
